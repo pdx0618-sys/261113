@@ -1,0 +1,8 @@
+参数地址,参数名称,参数编号,参数类型,数组标志,长度
+ToDcsBatteryMessage.WindCCDDetResult.OutsideAnodeToCathodeOhMax,卷绕CCD外侧_正极到负极最大,DATA001,REAL,1,1
+DcsBatteryMessage.WindCCDDetResult.OutsideAnodeToCathodeOhActDetValue,卷绕CCD外侧_正极到负极当前值,DATA002,REAL,2,100
+张力读取个数,张力读取个数,LEN001,INT,1,1
+正极卷绕过程张力,正极卷绕过程张力,TENSION001,REAL,2,@张力读取个数
+负极卷绕过程张力,负极卷绕过程张力,TENSION002,REAL,2,@张力读取个数
+上隔膜卷绕过程张力,上隔膜卷绕过程张力,TENSION003,REAL,2,@张力读取个数
+下隔膜卷绕过程张力,下隔膜卷绕过程张力,TENSION004,REAL,2,@张力读取个数

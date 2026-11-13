@@ -1,0 +1,88 @@
+[异常];11: 27:29.096;系统错误;子线程异常退出!System.BadImageFormatException: 未能加载文件或程序集“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。试图加载格式不正确的程序。
+文件名:“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 MES_Data_Interaction.MainForm.Init()
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 157
+   在 MES_Data_Interaction.Program.Main() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+
+=== 预绑定状态信息 ===
+日志: DisplayName = cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ (Fully-specified)
+日志: Appbase = file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/
+日志: 初始 PrivatePath = NULL
+调用程序集: MES_DataInteraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+日志: 此绑定从 default 加载上下文开始。
+日志: 正在使用应用程序配置文件: E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\bin\Debug\MES_DataInteraction.exe.Config
+日志: 使用主机配置文件: 
+日志: 使用 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 的计算机配置文件。
+日志: 此时没有为引用应用策略(私有、自定义、分部或基于位置的程序集绑定)。
+日志: 尝试下载新的 URL file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/cysLogin.DLL。
+错误: 未能完成程序集的安装(hr = 0x8007000b)。探测终止。
+
+
+[异常];11: 28:12.730;系统错误;子线程异常退出!System.BadImageFormatException: 未能加载文件或程序集“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。试图加载格式不正确的程序。
+文件名:“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 MES_Data_Interaction.MainForm.Init()
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 157
+   在 MES_Data_Interaction.Program.Main() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+
+=== 预绑定状态信息 ===
+日志: DisplayName = cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ (Fully-specified)
+日志: Appbase = file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/
+日志: 初始 PrivatePath = NULL
+调用程序集: MES_DataInteraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+日志: 此绑定从 default 加载上下文开始。
+日志: 正在使用应用程序配置文件: E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\bin\Debug\MES_DataInteraction.exe.Config
+日志: 使用主机配置文件: 
+日志: 使用 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 的计算机配置文件。
+日志: 此时没有为引用应用策略(私有、自定义、分部或基于位置的程序集绑定)。
+日志: 尝试下载新的 URL file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/cysLogin.DLL。
+错误: 未能完成程序集的安装(hr = 0x8007000b)。探测终止。
+
+
+[异常];11: 28:38.766;系统错误;子线程异常退出!System.BadImageFormatException: 未能加载文件或程序集“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。试图加载格式不正确的程序。
+文件名:“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 MES_Data_Interaction.MainForm.Init()
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 157
+   在 MES_Data_Interaction.Program.Main() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+
+=== 预绑定状态信息 ===
+日志: DisplayName = cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ (Fully-specified)
+日志: Appbase = file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/
+日志: 初始 PrivatePath = NULL
+调用程序集: MES_DataInteraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+日志: 此绑定从 default 加载上下文开始。
+日志: 正在使用应用程序配置文件: E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\bin\Debug\MES_DataInteraction.exe.Config
+日志: 使用主机配置文件: 
+日志: 使用 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 的计算机配置文件。
+日志: 此时没有为引用应用策略(私有、自定义、分部或基于位置的程序集绑定)。
+日志: 尝试下载新的 URL file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/cysLogin.DLL。
+错误: 未能完成程序集的安装(hr = 0x8007000b)。探测终止。
+
+
+[异常];11: 29:39.428;系统错误;子线程异常退出!System.BadImageFormatException: 未能加载文件或程序集“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”或它的某一个依赖项。试图加载格式不正确的程序。
+文件名:“cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”
+   在 MES_Data_Interaction.MainForm.Init()
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 157
+   在 MES_Data_Interaction.Program.Main() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+
+=== 预绑定状态信息 ===
+日志: DisplayName = cysLogin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ (Fully-specified)
+日志: Appbase = file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/
+日志: 初始 PrivatePath = NULL
+调用程序集: MES_DataInteraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+日志: 此绑定从 default 加载上下文开始。
+日志: 正在使用应用程序配置文件: E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\bin\Debug\MES_DataInteraction.exe.Config
+日志: 使用主机配置文件: 
+日志: 使用 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 的计算机配置文件。
+日志: 此时没有为引用应用策略(私有、自定义、分部或基于位置的程序集绑定)。
+日志: 尝试下载新的 URL file:///E:/MES/CYS.240721 温州机场江门/CYS.240721 温州机场江门/MES Data Interaction/MES Data Interaction/bin/Debug/cysLogin.DLL。
+错误: 未能完成程序集的安装(hr = 0x8007000b)。探测终止。
+
+

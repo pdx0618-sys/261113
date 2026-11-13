@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeviceParam xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EquipPCID>172.25.10.117</EquipPCID>
+  <EquipPCPassWord>789</EquipPCPassWord>
+  <EquipCode>P1-000159</EquipCode>
+  <IPAdress>172.25.10.117</IPAdress>
+  <operationCode>JR</operationCode>
+  <WPPLength>1</WPPLength>
+  <WNPLength>1</WNPLength>
+  <UppLength>1</UppLength>
+  <LowLength>1</LowLength>
+  <PETBlueLength>24</PETBlueLength>
+</DeviceParam>

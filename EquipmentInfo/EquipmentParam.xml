@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tEquipmentParam xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CellType>50AH</CellType>
+  <CellCode />
+  <WNPoleRollBatch>2</WNPoleRollBatch>
+  <WPPoleRollBatch>3</WPPoleRollBatch>
+  <LowerCerDiaBatch>4</LowerCerDiaBatch>
+  <UpperCerDiaBatch>3</UpperCerDiaBatch>
+  <PETBlueTapeBatch>5</PETBlueTapeBatch>
+  <PETScotchTapeBatch>6</PETScotchTapeBatch>
+  <BatchCode>111</BatchCode>
+  <Enable>true</Enable>
+  <ManualRoll_Falg>false</ManualRoll_Falg>
+  <PlanCode />
+  <Operator />
+  <PermissionLevel />
+  <oneOperator />
+  <onePermissionLevel />
+  <XRAYCounts>0</XRAYCounts>
+  <RYCounts>0</RYCounts>
+</tEquipmentParam>

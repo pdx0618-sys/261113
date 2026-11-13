@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tTcpPara xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StrCCDIP>192.168.1.1</StrCCDIP>
+  <nCCDPort>2000</nCCDPort>
+  <StrSMIP>192.168.1.2</StrSMIP>
+  <nSMPort>2000</nSMPort>
+  <StrServerIP>192.168.1.3</StrServerIP>
+  <nServerPort>2000</nServerPort>
+  <StrMESIP>192.168.1.4</StrMESIP>
+  <nMESPort>2000</nMESPort>
+</tTcpPara>

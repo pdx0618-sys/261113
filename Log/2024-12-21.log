@@ -1,0 +1,14 @@
+[流程];17: 21:27.834;;注册成功：HslCommunication Version 11.8.2
+
+[异常];17: 21:27.854;系统错误;子线程异常退出!System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 MES_Data_Interaction.View.FEquipmentState.SetStateInfo(String strMsg) 位置 E:\Code\MES项目集合\CYS.240721 温州机场瑞浦(格林晟)\MES Data Interaction\MES Data Interaction\View\FEquipmentState.cs:行号 440
+   在 MES_Data_Interaction.MainForm.ShowAndWriteLog(EnLogType LogTy, String strContents, String strOperator) 位置 E:\Code\MES项目集合\CYS.240721 温州机场瑞浦(格林晟)\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 6081
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\Code\MES项目集合\CYS.240721 温州机场瑞浦(格林晟)\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 251
+   在 MES_Data_Interaction.Program.Main() 位置 E:\Code\MES项目集合\CYS.240721 温州机场瑞浦(格林晟)\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+
+[流程];17: 21:53.384;;注册成功：HslCommunication Version 11.8.2
+
+[流程];17: 22:58.927;;注册成功：HslCommunication Version 11.8.2
+

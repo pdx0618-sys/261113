@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tPLCConfigParam xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Enflag>true</Enflag>
+  <EnMES>true</EnMES>
+  <EnPLCDataSend>true</EnPLCDataSend>
+  <PLCType>OmronCIP</PLCType>
+  <PLC_IP>127.0.0.1</PLC_IP>
+  <PC_IP>192.168.250.150</PC_IP>
+  <Port>44818</Port>
+  <COM>COM1</COM>
+  <BaudRate>19200</BaudRate>
+  <DataBit>7</DataBit>
+  <eStopBit>Two</eStopBit>
+  <eParity>Even</eParity>
+  <ePLCDataType>ShanYing_TW</ePLCDataType>
+</tPLCConfigParam>

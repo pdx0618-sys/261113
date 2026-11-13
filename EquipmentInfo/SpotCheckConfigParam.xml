@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpotCheckConfigParam xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnFlag_Morning>true</EnFlag_Morning>
+  <strStartTime_Morning>08:00:00</strStartTime_Morning>
+  <strEndTime_Morning>09:00:00</strEndTime_Morning>
+  <EnFlag_Night>true</EnFlag_Night>
+  <strStartTime_Night>19:00:00</strStartTime_Night>
+  <strEndTime_Night>20:00:00</strEndTime_Night>
+  <EnContinueSpotCheck>true</EnContinueSpotCheck>
+  <ContinueSpotCheckGap>1</ContinueSpotCheckGap>
+</SpotCheckConfigParam>

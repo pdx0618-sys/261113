@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Methods xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceName>RPServices</ServiceName>
+  <MethodsName>
+    <string>PutMesHeartDatas</string>
+    <string>PutMesAlarmDatas</string>
+    <string>PutMesStateDatas</string>
+    <string>EnergyUpload</string>
+    <string>PutMesProcessDatas</string>
+    <string>PutMesRealTimeDatas</string>
+    <string>PutHuorsDatas</string>
+    <string>PutOutputDatas</string>
+    <string>PutMesWornPartDatas</string>
+    <string>PutMesResultDatas</string>
+    <string>GetFingerPermissionLevel</string>
+    <string>CheckProductInfo</string>
+    <string>CheckBomInfo</string>
+    <string>AutoProduceWIP</string>
+    <string>GetEquipKeyParams</string>
+  </MethodsName>
+</Methods>

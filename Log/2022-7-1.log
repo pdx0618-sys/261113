@@ -1,0 +1,8 @@
+[异常];15: 05:09.560;系统错误;子线程异常退出!System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 MES_Data_Interaction.View.FEquipmentState.LockBatchCode() 位置 D:\项目\模切项目\卷绕机\MES Data Interaction\MES Data Interaction\View\FEquipmentState.cs:行号 634
+   在 MES_Data_Interaction.View.FEquipmentState..ctor() 位置 D:\项目\模切项目\卷绕机\MES Data Interaction\MES Data Interaction\View\FEquipmentState.cs:行号 46
+   在 MES_Data_Interaction.MainForm..ctor() 位置 D:\项目\模切项目\卷绕机\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 32
+   在 MES_Data_Interaction.Program.Main() 位置 D:\项目\模切项目\卷绕机\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+

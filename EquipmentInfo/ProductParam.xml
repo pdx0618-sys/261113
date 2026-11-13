@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductionParam xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AGoodEAQty>0</AGoodEAQty>
+  <ARedSignQty>0</ARedSignQty>
+  <BGoodEAQty>0</BGoodEAQty>
+  <BRedSignQty>0</BRedSignQty>
+  <AFinishQty>0</AFinishQty>
+  <BFinishQty>0</BFinishQty>
+</ProductionParam>

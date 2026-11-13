@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Methods xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceName>ChinaTVprogramWebService</ServiceName>
+  <MethodsName>
+    <string>getAreaDataSet</string>
+    <string>getAreaString</string>
+    <string>getTVstationDataSet</string>
+    <string>getTVstationString</string>
+    <string>getTVchannelDataSet</string>
+    <string>getTVchannelString</string>
+    <string>getTVprogramDateSet</string>
+    <string>getTVprogramString</string>
+  </MethodsName>
+</Methods>

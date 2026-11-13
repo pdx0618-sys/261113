@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tCutPara xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LftWCut>456</LftWCut>
+  <LftNCut>123</LftNCut>
+  <RgtWCut>357</RgtWCut>
+  <RgtNCut>639</RgtNCut>
+  <NMarkCut />
+  <WMarkCut>562</WMarkCut>
+  <UpSlit>321</UpSlit>
+  <DownSlit />
+  <UpSlitKnifeUse>0.0</UpSlitKnifeUse>
+  <DownSlitKnifeUse>0.0</DownSlitKnifeUse>
+  <Interval>20</Interval>
+</tCutPara>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tURL xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RPURL>http://172.25.225.60:18733/RPServices/?wsdl </RPURL>
+  <EquipURL>http://172.25.225.79:8086/mes-edi-handler/wisdytech/equipWebService?wsdl</EquipURL>
+  <KnifeURL>http://172.25.225.60:18733/RPServices/?wsdl </KnifeURL>
+  <HeartURL>http://172.25.225.60:18733/RPServices/?wsdl</HeartURL>
+  <StateAndStopReasonURL>http://172.25.225.60:18733/RPServices/?wsdl</StateAndStopReasonURL>
+  <AlarmURL>http://172.25.225.79:8086/mes-edi-handler/wisdytech/equipWebService?wsdl</AlarmURL>
+  <LoginURL>https://jsmes05test.reptbattero.com:8767/api/equipment/UserLogin_info</LoginURL>
+  <UserPassworgLoginURL>http://172.25.225.60:18733/RPServices/?wsdl</UserPassworgLoginURL>
+  <ZFingerLoginURL>http://172.25.225.60:18733/RPServices/?wsdl</ZFingerLoginURL>
+  <ResultDataURL>http://172.25.225.60:18733/RPServices/?wsdl</ResultDataURL>
+  <StopSignalURL>http://172.25.225.60:18733/RPServices/?wsdl</StopSignalURL>
+  <JrResultURL>http://172.25.225.79:8086/mes-edi-handler/wisdytech/equipWebService?wsdl</JrResultURL>
+  <RealTimeDataURL>http://172.25.225.60:18733/RPServices/?wsdl</RealTimeDataURL>
+  <HourlyDataURL>http://172.25.225.60:18733/RPServices/?wsdl</HourlyDataURL>
+  <RealStatusURL>http://172.25.225.60:18733/RPServices/?wsdl</RealStatusURL>
+  <FirstURL>http://172.25.225.60:18733/RPServices/?wsdl</FirstURL>
+  <SpotCheckURL>http://172.25.225.60:18733/RPServices/?wsdl</SpotCheckURL>
+  <WastageDataURL>http://172.25.225.60:18733/RPServices/?wsdl</WastageDataURL>
+  <ProcessDataURL>http://172.25.225.60:18733/RPServices/?wsdl</ProcessDataURL>
+  <AccessoryLifeURL>http://172.25.225.60:18733/RPServices/?wsdl</AccessoryLifeURL>
+</tURL>

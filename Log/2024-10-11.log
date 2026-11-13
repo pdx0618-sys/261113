@@ -1,0 +1,13 @@
+[异常];23: 44:55.394;系统错误;子线程异常退出!System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MES_Data_Interaction.View.MultiChartConfigForm.UpdateView() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\Config\MultiChartConfigForm.cs:行号 83
+   在 MES_Data_Interaction.View.MultiChartConfigForm.ComBox_SelChart_SelectedIndexChanged(Object sender, EventArgs e) 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\Config\MultiChartConfigForm.cs:行号 215
+   在 Sunny.UI.UIComboBox.Box_SelectedIndexChanged(Object sender, EventArgs e)
+   在 System.Windows.Forms.ComboBox.OnSelectedIndexChanged(EventArgs e)
+   在 System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   在 Sunny.UI.UIComboBox.set_SelectedIndex(Int32 value)
+   在 MES_Data_Interaction.View.MultiChartConfigForm.Init() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\Config\MultiChartConfigForm.cs:行号 74
+   在 MES_Data_Interaction.View.MultiChartConfigForm..ctor(Action`1 ParamCallback) 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\Config\MultiChartConfigForm.cs:行号 35
+   在 MES_Data_Interaction.View.baseMultiDataChart..ctor() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\baseMultiDataChart.cs:行号 28
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 49
+   在 MES_Data_Interaction.Program.Main() 位置 E:\MES\CYS.240721 温州机场江门\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+

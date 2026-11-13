@@ -1,0 +1,21 @@
+[异常];12: 19:31.125;系统错误;子线程异常退出!System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 MES_Data_Interaction.View.MultiDataChart.Refresh() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\MultiDataChart.cs:行号 128
+   在 MES_Data_Interaction.View.MultiDataChart.InitChart() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\MultiDataChart.cs:行号 114
+   在 MES_Data_Interaction.View.MultiDataChart..ctor() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\MultiDataChart.cs:行号 29
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 47
+   在 MES_Data_Interaction.Program.Main() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+
+[流程];14: 14:44.509;异常;折线图输入数据错误，数据量与设置线个数不一致!
+
+[流程];14: 15:15.437;异常;折线图输入数据错误，数据量与设置线个数不一致!
+
+[异常];15: 15:20.576;系统错误;子线程异常退出!System.ArgumentException: “SeriesCollection”中已存在名为“上限”的图表元素。
+   在 System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.InsertItem(Int32 index, T item)
+   在 System.Windows.Forms.DataVisualization.Charting.SeriesCollection.Add(String name)
+   在 MES_Data_Interaction.View.baseMultiDataChart.InitChart() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\baseMultiDataChart.cs:行号 51
+   在 MES_Data_Interaction.View.baseMultiDataChart..ctor() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\View\baseMultiDataChart.cs:行号 28
+   在 MES_Data_Interaction.MainForm..ctor() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\MainForm.cs:行号 48
+   在 MES_Data_Interaction.Program.Main() 位置 E:\MES项目集合\CYS.240721 温州机场江门\MES Data Interaction\MES Data Interaction\Program.cs:行号 61
+

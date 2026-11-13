@@ -1,0 +1,114 @@
+[流程];11:14:25.015;User;初始化
+[流程];11:15:04.768;User;初始化
+[流程];11:15:08.170;;PLC连接失败！
+[流程];11:15:08.606;;WebService初始化成功！
+[流程];11:15:08.631;;CCD TCP参数加载成功！
+[流程];11:15:10.696;;CCD连接中......！
+[流程];11:19:43.331;User;初始化
+[流程];11:19:43.632;;WebService初始化成功！
+[流程];11:21:20.954;User;初始化
+[流程];11:21:21.222;;WebService初始化成功！
+[流程];11:21:26.797;;接收到CCD数据，但模切机PLC断开连接!{"EquipCode":"P000807","CellCode":"HCPP-16_1-20210126-0002C","OpType":"start","UploadTime":"2021-08-20 11:21:25"}
+[流程];11:21:52.584;User;初始化
+[流程];11:21:52.843;;WebService初始化成功！
+[流程];11:22:22.930;User;初始化
+[流程];11:22:23.208;;WebService初始化成功！
+[流程];11:23:59.219;User;初始化
+[流程];11:24:00.302;;PLC连接失败！
+[流程];11:24:00.625;;WebService初始化成功！
+[流程];11:24:00.646;;CCD TCP参数加载成功！
+[流程];11:25:20.531;User;初始化
+[流程];11:25:21.727;;PLC连接失败！
+[流程];11:25:22.001;;WebService初始化成功！
+[流程];11:25:22.023;;CCD TCP参数加载成功！
+[流程];11:29:38.142;User;初始化
+[流程];11:29:40.033;;PLC连接失败！
+[流程];11:29:40.309;;WebService初始化成功！
+[流程];11:29:40.331;;CCD TCP参数加载成功！
+[流程];11:30:29.768;User;初始化
+[流程];11:30:31.390;;PLC连接失败！
+[流程];11:30:31.711;;WebService初始化成功！
+[流程];11:30:31.730;;CCD TCP参数加载成功！
+[流程];11:34:18.484;User;初始化
+[流程];11:34:19.763;;PLC连接失败！
+[流程];11:34:19.860;;WebService初始化成功！
+[流程];11:34:19.883;;CCD TCP参数加载成功！
+[流程];11:35:32.890;User;初始化
+[流程];11:35:34.844;;PLC连接失败！
+[流程];11:35:34.955;;WebService初始化成功！
+[流程];11:35:34.978;;CCD TCP参数加载成功！
+[流程];11:36:08.919;User;初始化
+[流程];11:36:10.289;;PLC连接失败！
+[流程];11:36:10.411;;WebService初始化成功！
+[流程];11:36:10.434;;CCD TCP参数加载成功！
+[流程];11:37:21.526;User;初始化
+[流程];11:37:22.755;;PLC连接失败！
+[流程];11:37:22.874;;WebService初始化成功！
+[流程];11:37:22.897;;CCD TCP参数加载成功！
+[流程];11:47:08.196;User;初始化
+[流程];11:47:09.190;;PLC连接失败！
+[流程];11:47:09.296;;WebService初始化成功！
+[流程];11:47:09.317;;CCD TCP参数加载成功！
+[流程];13:37:40.089;User;初始化
+[流程];13:37:42.101;;PLC连接失败！
+[流程];13:37:42.207;;WebService初始化成功！
+[流程];13:37:42.228;;CCD TCP参数加载成功！
+[流程];13:37:48.640;;已经第{0}次尝试上传MES服务器失败：System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> System.Web.Services.Protocols.SoapHeaderException: After parsing a value an unexpected character was encountered: ". Path 'OutterMarkKnifeTimes', line 1, position 1107.
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   在 EnterpriseServerBase.WebService.DynamicWebCalling.RPServices.PutMesResultDatas(String data)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   在 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 MES_Data_Interaction.Control.tWebServices.InvokeDataMethod(String methodname, Object[] args) 位置 D:\项目\模切项目\瑞普二期\MES Data Interaction\MES Data Interaction\Control\tWebService.cs:行号 319
+[流程];13:38:16.248;User;初始化
+[流程];13:38:17.673;;PLC连接失败！
+[流程];13:38:17.782;;WebService初始化成功！
+[流程];13:38:17.804;;CCD TCP参数加载成功！
+[流程];13:38:37.775;;已经第{0}次尝试上传MES服务器失败：System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8733
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   在 EnterpriseServerBase.WebService.DynamicWebCalling.RPServices.PutMesResultDatas(String data)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   在 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 MES_Data_Interaction.Control.tWebServices.InvokeDataMethod(String methodname, Object[] args) 位置 D:\项目\模切项目\瑞普二期\MES Data Interaction\MES Data Interaction\Control\tWebService.cs:行号 319
+[流程];13:38:56.670;User;初始化
+[流程];13:38:57.937;;PLC连接失败！
+[流程];13:38:58.033;;WebService初始化成功！
+[流程];13:38:58.055;;CCD TCP参数加载成功！
+[流程];13:39:02.768;;已经第{0}次尝试上传MES服务器失败：System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> System.Web.Services.Protocols.SoapHeaderException: After parsing a value an unexpected character was encountered: ". Path 'OutterMarkKnifeTimes', line 1, position 1107.
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   在 EnterpriseServerBase.WebService.DynamicWebCalling.RPServices.PutMesResultDatas(String data)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   在 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 MES_Data_Interaction.Control.tWebServices.InvokeDataMethod(String methodname, Object[] args) 位置 D:\项目\模切项目\瑞普二期\MES Data Interaction\MES Data Interaction\Control\tWebService.cs:行号 319
+[流程];13:39:13.105;;上传EA数据超过3次失败！{"EquipCode":"P000807","CellCode":"HCPP-16_1-20210126-0002C","OpType":"start","UploadTime":"2021-08-20 01:39:01"}
+[流程];13:39:21.090;User;初始化
+[流程];13:39:22.499;;PLC连接失败！
+[流程];13:39:22.610;;WebService初始化成功！
+[流程];13:39:22.631;;CCD TCP参数加载成功！
+[流程];14:33:00.119;User;初始化
+[流程];14:33:01.730;;PLC连接失败！
+[流程];14:33:01.849;;WebService初始化成功！
+[流程];14:33:01.872;;CCD TCP参数加载成功！
+[流程];14:33:55.667;User;初始化
+[流程];14:33:57.069;;PLC连接失败！
+[流程];14:33:57.174;;WebService初始化成功！
+[流程];14:33:57.196;;CCD TCP参数加载成功！
+[流程];14:54:55.657;User;初始化
+[流程];14:54:57.033;;PLC连接失败！
+[流程];14:54:57.149;;WebService初始化成功！
+[流程];14:54:57.173;;CCD TCP参数加载成功！

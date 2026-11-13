@@ -1,0 +1,3 @@
+参数名称,寄存器名称,地址,长度,索引,类型,
+耗电量,耗电量,ProductionData[1].UsedElectricity,1,0,REAL,1
+耗气量,耗气量,ProductionData[1].UsedAir,1,0,REAL,1

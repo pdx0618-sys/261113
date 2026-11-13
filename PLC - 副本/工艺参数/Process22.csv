@@ -1,0 +1,64 @@
+参数名称,寄存器名称,地址,长度,索引,类型,
+卷绕正极收卷张力,StraightWindingTension,D12500,1,0,REAL,1
+卷绕负极收卷张力,BurdenWindingTension,D12600,1,0,REAL,1
+正极极耳计数,StraightTabNumber,D2542,1,0,INT,1
+负极极耳计数,BurdenTabNumber,D2592,1,0,INT,1
+极片首圈张力,PolePieceFirstTension,D12500,1,0,REAL,1
+卷绕上隔膜张力,LowerDiaphragmTension,D12700,1,0,REAL,1
+卷绕下隔膜张力,LowerDiaphragmTensionBelow,D12800,1,0,REAL,1
+隔膜首圈张力,FilmFirstLapTension,D12700,1,0,REAL,1
+卷绕线速度,LinearVelocity,D322,1,0,REAL,1
+卷芯热压温度,HotPressingTemperature,D15002[1],1,0,REAL,1
+卷芯热压温度上限,HotPressingTemperature1,D12118,1,0,REAL,1
+卷芯热压温度下限,HotPressingTemperature2,D12120,1,0,REAL,1
+预压压力,PreloadingPressure,D1378,1,0,REAL,1
+预压压力上限,PreloadingPressure1,D12122,1,0,REAL,1
+预压压力下限,PreloadingPressure2,D12124,1,0,REAL,1
+热压压力,HotPressingPressure,D1256,1,0,INT,1
+热压压力上限,HotPressingPressure1,D4119,1,0,INT,1
+热压压力下限,HotPressingPressure2,D4120,1,0,INT,1
+卷芯热压时间,HotPressingTime,D50,1,0,INT,1
+预压时间,PreloadingTime,D978,1,0,REAL,1
+正极极片长度设定,StraightPoleLength,D804,1,0,REAL,1
+正极极片长度上限设定,StraightPoleLength1,D12126,1,0,REAL,1
+正极极片长度下限设定,StraightPoleLength2,D12128,1,0,REAL,1
+负极极片长度设定,BurdenPoleLength,D904,1,0,REAL,1
+负极极片长度上限设定,BurdenPoleLength1,D12130,1,0,REAL,1
+负极极片长度下限设定,BurdenPoleLength2,D12202,1,0,REAL,1
+隔膜预卷圈数,PartitionPreroll,D140,1,0,REAL,1
+隔膜收尾圈数上限,PartitionWindUp,D108,1,0,REAL,1
+隔膜收尾圈数下限,PartitionWindUpBelow,D208,1,0,REAL,1
+卷针变径值上限,VariableDiameterValue,D1348,1,0,REAL,1
+卷针变径值下限,VariableDiameterValueBelow,D1349,1,0,REAL,1
+正极极耳翻折外侧检测公差,StraightFold,D7056,1,0,REAL,1
+正极极耳翻折内侧检测公差,StraightFoldWithin,D7055,1,0,REAL,1
+负极极耳翻折外侧检测公差,TestingTolerancesOutside,D7066,1,0,REAL,1
+负极极耳翻折内侧检测公差,TestingTolerances,D7065,1,0,REAL,1
+"卷芯A/C Overhang（▼）极耳侧上限
+Anode/Cathode Overhang",Overhang,D5510[1],1,0,REAL,1
+"卷芯A/C Overhang（▼）极耳侧下限
+Anode/Cathode Overhang",OverhangLowerLimit,D5512[1],1,0,REAL,1
+"卷芯A/C Overhang（▼）非极耳侧上限
+Anode/Cathode Overhang",OverhangUpperLimit,D5509[1],1,0,REAL,1
+"卷芯A/C Overhang（▼）非极耳侧下限
+Anode/Cathode Overhang",OverhangMistakeMeasure,D5511[1],1,0,REAL,1
+"卷芯全极耳间距最大值
+Polar ear  spacing",FullPoleEarSpacing,D5513[0],1,0,REAL,1
+"卷芯全极耳间距最小值
+Polar ear  spacing",FullPoleEarSpacingSmall,D5513[1],1,0,REAL,1
+"隔膜卷芯S/A& A/S Overhang（▼）极耳侧下限
+Anode/Separator Overhang",DiaphragmCoreS,D5512[0],1,0,REAL,1
+"隔膜卷芯S/A& A/S Overhang（▼）极耳侧上限
+Anode/Separator Overhang",DiaphragmCoreSUpper,D5510[0],1,0,REAL,1
+"隔膜卷芯S/A& A/S Overhang（▼）非极耳侧上限
+Anode/Separator Overhang",DiaphragmCoreS1Upper,D5509[0],1,0,REAL,1
+"隔膜卷芯S/A& A/S Overhang（▼）非极耳侧下限
+Anode/Separator Overhang",DiaphragmCoreS1,D5511[0],1,0,REAL,1
+"正极全极耳边距上限
+Cathode pole ear distance",StraightFullPoleEarMargin,D5514[0],1,0,REAL,1
+"正极全极耳边距下限
+Cathode pole ear distance",StraightFullPoleEarMarginBelow,D5514[1],1,0,REAL,1
+"负极全极耳边距上限
+Anode pole ear distance",BurdenFullPoleEarMargin,D5514[2],1,0,REAL,1
+"负极全极耳边距下限
+Anode pole ear distance",BurdenFullPoleEarMarginBelow,D5514[3],1,0,REAL,1
